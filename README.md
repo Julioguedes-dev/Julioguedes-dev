@@ -46,21 +46,3 @@ Me chamo Julio Cesar Guedes da Silva, tenho 18 anos e sou natural do Ceara. Atua
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<img 
-    align="left" 
-    alt="Git Status" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Julioguedes-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br" 
-/>
-
-<img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julioguedes-dev)](https://github.com/Julioguedes-dev/github-readme-stats&theme=tokyonight&include_all_commits=true&locate=pt-br" 
-/>
-
