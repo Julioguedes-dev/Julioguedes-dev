@@ -7,7 +7,7 @@ Me chamo Julio Cesar Guedes da Silva, tenho 18 anos e sou natural do Ceara. Atua
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
