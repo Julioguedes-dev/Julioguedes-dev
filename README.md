@@ -1,6 +1,6 @@
 # Julio Guedes
 
-**`Desenvolvedora Backnd`**
+**`Desenvolvedor Backnd`**
 
 Me chamo Julio Cesar Guedes da Silva, tenho 18 anos e sou natural do Ceara. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. 
 
