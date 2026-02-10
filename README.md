@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backnd`**
 
-Me chamo Julio Cesar Guedes da Silva, tenho 18 ano. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. 
+Me chamo Julio Cesar Guedes da Silva, tenho 18 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. 
 
 
 ---
